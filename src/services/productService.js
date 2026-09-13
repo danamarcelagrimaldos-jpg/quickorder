@@ -1,4 +1,4 @@
-const API_URL = 'https://6a9439890e895b145e5f552f.mockapi.io/producto';
+const API_URL = 'https://6a9845047160beda2292d62e.mockapi.io/productos';
 
 // Obtener todos los productos
 export const obtenerProductos = () => {
